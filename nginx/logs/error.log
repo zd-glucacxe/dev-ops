@@ -302,3 +302,135 @@
 2023/12/05 09:19:58 [error] 24#24: *1 open() "/usr/share/nginx/html/404.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
 2023/12/05 09:21:20 [error] 24#24: *1 auth request unexpected status: 400 while sending to client, client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=123 HTTP/1.1", host: "localhost"
 2023/12/05 09:21:20 [error] 24#24: *1 open() "/usr/share/nginx/html/50x.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=123 HTTP/1.1", host: "localhost"
+2023/12/05 17:43:52 [notice] 28#28: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 35#35: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 35#35: exiting
+2023/12/05 17:43:52 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 29#29: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 31#31: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 25#25: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 34#34: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 30#30: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 30#30: exiting
+2023/12/05 17:43:52 [notice] 32#32: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 37#37: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 37#37: exiting
+2023/12/05 17:43:52 [notice] 33#33: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 38#38: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 26#26: exiting
+2023/12/05 17:43:52 [notice] 36#36: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 36#36: exiting
+2023/12/05 17:43:52 [notice] 39#39: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 28#28: exiting
+2023/12/05 17:43:52 [notice] 24#24: signal 15 (SIGTERM) received, exiting
+2023/12/05 17:43:52 [notice] 35#35: exit
+2023/12/05 17:43:52 [notice] 27#27: exiting
+2023/12/05 17:43:52 [notice] 29#29: exiting
+2023/12/05 17:43:52 [notice] 31#31: exiting
+2023/12/05 17:43:52 [notice] 25#25: exiting
+2023/12/05 17:43:52 [notice] 34#34: exiting
+2023/12/05 17:43:52 [notice] 30#30: exit
+2023/12/05 17:43:52 [notice] 32#32: exiting
+2023/12/05 17:43:52 [notice] 37#37: exit
+2023/12/05 17:43:52 [notice] 33#33: exiting
+2023/12/05 17:43:52 [notice] 38#38: exiting
+2023/12/05 17:43:52 [notice] 26#26: exit
+2023/12/05 17:43:52 [notice] 36#36: exit
+2023/12/05 17:43:52 [notice] 39#39: exiting
+2023/12/05 17:43:52 [notice] 28#28: exit
+2023/12/05 17:43:52 [notice] 24#24: exiting
+2023/12/05 17:43:52 [notice] 27#27: exit
+2023/12/05 17:43:52 [notice] 29#29: exit
+2023/12/05 17:43:52 [notice] 31#31: exit
+2023/12/05 17:43:52 [notice] 25#25: exit
+2023/12/05 17:43:52 [notice] 34#34: exit
+2023/12/05 17:43:52 [notice] 32#32: exit
+2023/12/05 17:43:52 [notice] 33#33: exit
+2023/12/05 17:43:52 [notice] 38#38: exit
+2023/12/05 17:43:52 [notice] 39#39: exit
+2023/12/05 17:43:52 [notice] 24#24: exit
+2023/12/05 17:43:52 [notice] 1#1: signal 14 (SIGALRM) received
+2023/12/05 17:43:52 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2023/12/05 17:43:52 [notice] 1#1: worker process 25 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/05 17:43:52 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2023/12/05 17:43:52 [notice] 1#1: worker process 31 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/05 17:43:52 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2023/12/05 17:43:52 [notice] 1#1: worker process 27 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 28 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 37 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/05 17:43:52 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2023/12/05 17:43:52 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2023/12/05 17:43:52 [notice] 1#1: worker process 26 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 29 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 30 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 33 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 34 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 35 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 36 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 38 exited with code 0
+2023/12/05 17:43:52 [notice] 1#1: worker process 39 exited with code 0
+2023/12/05 17:43:53 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/05 17:43:53 [notice] 1#1: signal 17 (SIGCHLD) received from 39
+2023/12/05 17:43:53 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2023/12/05 17:43:53 [notice] 1#1: worker process 32 exited with code 0
+2023/12/05 17:43:53 [notice] 1#1: signal 29 (SIGIO) received
+2023/12/05 17:43:53 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2023/12/05 17:43:53 [notice] 1#1: worker process 24 exited with code 0
+2023/12/05 17:43:53 [notice] 1#1: exit
+2023/12/06 11:07:42 [notice] 1#1: using the "epoll" event method
+2023/12/06 11:07:42 [notice] 1#1: nginx/1.21.5
+2023/12/06 11:07:42 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2023/12/06 11:07:42 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/12/06 11:07:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/06 11:07:42 [notice] 1#1: start worker processes
+2023/12/06 11:07:42 [notice] 1#1: start worker process 24
+2023/12/06 11:07:42 [notice] 1#1: start worker process 25
+2023/12/06 11:07:42 [notice] 1#1: start worker process 26
+2023/12/06 11:07:42 [notice] 1#1: start worker process 27
+2023/12/06 11:07:42 [notice] 1#1: start worker process 28
+2023/12/06 11:07:42 [notice] 1#1: start worker process 29
+2023/12/06 11:07:42 [notice] 1#1: start worker process 30
+2023/12/06 11:07:42 [notice] 1#1: start worker process 31
+2023/12/06 11:07:42 [notice] 1#1: start worker process 32
+2023/12/06 11:07:42 [notice] 1#1: start worker process 33
+2023/12/06 11:07:42 [notice] 1#1: start worker process 34
+2023/12/06 11:07:42 [notice] 1#1: start worker process 35
+2023/12/06 11:07:42 [notice] 1#1: start worker process 36
+2023/12/06 11:07:42 [notice] 1#1: start worker process 37
+2023/12/06 11:07:42 [notice] 1#1: start worker process 38
+2023/12/06 11:07:42 [notice] 1#1: start worker process 39
+2023/12/06 13:50:52 [error] 24#24: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/?token=success"
+2023/12/06 13:50:52 [error] 24#24: *1 open() "/usr/share/nginx/html/404.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/?token=success"
+2023/12/09 09:05:13 [notice] 1#1: using the "epoll" event method
+2023/12/09 09:05:13 [notice] 1#1: nginx/1.21.5
+2023/12/09 09:05:13 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2023/12/09 09:05:13 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2023/12/09 09:05:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2023/12/09 09:05:13 [notice] 1#1: start worker processes
+2023/12/09 09:05:13 [notice] 1#1: start worker process 24
+2023/12/09 09:05:13 [notice] 1#1: start worker process 25
+2023/12/09 09:05:13 [notice] 1#1: start worker process 26
+2023/12/09 09:05:13 [notice] 1#1: start worker process 27
+2023/12/09 09:05:13 [notice] 1#1: start worker process 28
+2023/12/09 09:05:13 [notice] 1#1: start worker process 29
+2023/12/09 09:05:13 [notice] 1#1: start worker process 30
+2023/12/09 09:05:13 [notice] 1#1: start worker process 31
+2023/12/09 09:05:13 [notice] 1#1: start worker process 32
+2023/12/09 09:05:13 [notice] 1#1: start worker process 33
+2023/12/09 09:05:13 [notice] 1#1: start worker process 34
+2023/12/09 09:05:13 [notice] 1#1: start worker process 35
+2023/12/09 09:05:13 [notice] 1#1: start worker process 36
+2023/12/09 09:05:13 [notice] 1#1: start worker process 37
+2023/12/09 09:05:13 [notice] 1#1: start worker process 38
+2023/12/09 09:05:13 [notice] 1#1: start worker process 39
+2023/12/09 10:56:29 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY HTTP/1.1", subrequest: "/auth", upstream: "http://192.168.137.1:8080/verify?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY", host: "localhost"
+2023/12/09 10:56:29 [error] 24#24: *1 open() "/usr/share/nginx/html/50x.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY HTTP/1.1", subrequest: "/50x.html", upstream: "http://192.168.137.1:8080/verify?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY", host: "localhost"
+2023/12/09 10:56:29 [error] 24#24: *1 auth request unexpected status: 404, client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY HTTP/1.1", host: "localhost"
+2023/12/09 10:56:29 [error] 24#24: *1 open() "/usr/share/nginx/html/50x.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY HTTP/1.1", host: "localhost"
+2023/12/09 10:56:29 [error] 24#24: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY"
+2023/12/09 10:56:29 [error] 24#24: *2 open() "/usr/share/nginx/html/404.html" failed (2: No such file or directory), client: 172.17.0.1, server: 192.168.137.1, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ4ZmciLCJleHAiOjE3MDE4NzQxMzUsImlhdCI6MTcwMTg3MzgzNSwianRpIjoiMTkwZjJiNmUtOTI5Yy00N2RlLTg0MmQtY2RkYTA4ZDMzNTE1IiwidXNlcm5hbWUiOiJ4ZmcifQ.FEy-d0uiTzCEv38Eq82om1fJ-GKqeIR1ScuJ57WByIY"
